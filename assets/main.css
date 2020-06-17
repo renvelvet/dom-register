@@ -1,0 +1,16 @@
+body {
+  font-family: "Muli", sans-serif;
+}
+.title-page {
+  text-align: center;
+  margin-top: 60px;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  /* align-content: center; */
+  margin-top: 40px;
+  padding-right: 150px;
+}
